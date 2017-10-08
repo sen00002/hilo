@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HiLo</string>
+    <string name="author">Rajat Sen (sen00002)</string>
+    <string name="guessinggame">Guessing Game</string>
+    <string name="guesscounter">Guess Counter</string>
+    <string name="numberofguessesleft">Number Of Guesses Left</string>
+    <string name="guess">Guess!</string>
+    <string name="counter">Counter</string>
+    <string name="left">Left Number</string>
+    <string name="resetbutton">Reset Game</string>
+</resources>
